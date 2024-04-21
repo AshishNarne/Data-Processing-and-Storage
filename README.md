@@ -1,6 +1,6 @@
 # In-Memory Database with Transaction Support
 
-This repository contains a Python script implementing a simple in-memory database that supports transactions. The `InMemoryDB` class offers basic functionalities like beginning a transaction, committing changes, rolling back to a previous state, and setting or retrieving key-value pairs.
+This repository contains a Python script implementing a simple in-memory database that supports transactions. The InMemoryDB class offers basic functionalities like beginning a transaction, committing changes, rolling back to a previous state, and setting or retrieving key-value pairs.
 
 ## Features
 
