@@ -25,3 +25,11 @@ The script includes an example that shows the functionality of the database clas
 - Retrieve a value for a key that does not exist.
 - Attempt to modify the database without a transaction and handle the resulting error.
 - Start a transaction, modify values, and either commit these changes or roll them back.
+
+## Suggestions for Assignment Improvement
+
+1. Provide a more detailed specification of the expected behaviors for each method. a
+2. Give more information on edge cases for each method.
+3. Include a set of automated tests that students can run to verify their implementations before submission or at least expected output.
+4. Introduce additional features to be implemented that show how these could be used in real-life scenarios.
+5. To include more specifics in the grading rubric for the actual code to make sure we are on track.
